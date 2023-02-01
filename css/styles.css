@@ -1,0 +1,47 @@
+/* html tags */
+body {
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 562.5%;
+    color: #005f7e;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #6cc2e9;
+    font-size: 200%;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #3826bfd6;
+}
+/***********************CLasses***********************/
+.top-container{
+    background-color: #BEDCFA;
+    position:relative;
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+/* images */
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+   
+}
