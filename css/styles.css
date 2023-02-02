@@ -33,6 +33,16 @@ h3{
 .middle-container{
     margin: 100px 0;
 }
+.skill-row{
+    margin: 100px auto 200px auto;
+    width: 50%;
+    text-align: left;
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
 /* images */
 .top-cloud{
     position: absolute;
